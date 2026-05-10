@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ponsekha 👋
 
-<!--
-**KGPonsekhaa/KGPonsekhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Generative AI Engineer with experience building enterprise AI applications using LangChain, LangGraph, Azure OpenAI, and multi-agent architectures.
 
-Here are some ideas to get you started:
+## 🚀 Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Generative AI
+* RAG Systems
+* Multi-Agent AI
+* Enterprise AI Workflows
+* AI Automation
+* LangGraph & MCP
+
+## 💻 Tech Stack
+
+Python | LangChain | LangGraph | Flask | Azure OpenAI | SQL | React.js
+
+## 📌 Current Focus
+
+* Building enterprise AI workflows
+* Exploring multi-agent orchestration
+* Developing RAG-based applications
+* AI automation systems
